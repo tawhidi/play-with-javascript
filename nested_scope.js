@@ -1,4 +1,4 @@
-
+// LEXICAL SCOPING
 const numberOfPeople = function(number) {
   const totalSalaryfunc = function(perMonthSalary){
     // number param is accessible here
